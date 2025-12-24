@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\bin\Debug\net10.0\dotNET.exe
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\bin\Debug\net10.0\dotNET.deps.json
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\bin\Debug\net10.0\dotNET.runtimeconfig.json
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\bin\Debug\net10.0\dotNET.dll
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\bin\Debug\net10.0\dotNET.pdb
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.dll
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\refint\dotNET.dll
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.pdb
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\dotNET.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Bureau\EHEI\4année\Ecommerce - PFA\Back-End\dotNET\obj\Debug\net10.0\ref\dotNET.dll
