@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94CCA9A2-B8F0-4C9E-9DAE-C40004C8D776}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{94CCA9A2-B8F0-4C9E-9DAE-C40004C8D776}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{462BA172-43DB-4C7E-8049-221353EFBB6A}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{462BA172-43DB-4C7E-8049-221353EFBB6A}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "dotNET.http",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
               "RelativeToolTip": "dotNET.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-26T20:19:51.731Z",
+              "WhenOpened": "2025-12-26T20:33:30.092Z",
               "EditorCaption": ""
             }
           ]
