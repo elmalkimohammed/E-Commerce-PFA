@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-12-26T20:37:06.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "dotNET.http",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
               "RelativeDocumentMoniker": "dotNET.http",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
               "RelativeToolTip": "dotNET.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-26T20:33:30.092Z"
+              "WhenOpened": "2025-12-26T22:43:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:16:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Controllers\\ProductDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductDetailsController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Controllers\\ProductDetailsController.cs",
+              "RelativeToolTip": "Controllers\\ProductDetailsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:15:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:28:28.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Repository\\productRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\productRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Repository\\productRepository.cs",
+              "RelativeToolTip": "Repository\\productRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:01:41.78Z",
+              "EditorCaption": ""
             }
           ]
         }

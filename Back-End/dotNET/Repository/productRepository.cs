@@ -12,9 +12,9 @@ namespace dotNET.Repository
             _productsCollection = database.GetCollection<Product>("products") ;
         }
         // Database Querries
-        public async Task<Product> GetProductById(string id)
+        public async Task<Product> GetProductById(string requestedId)
         {
-            return await _productsCollection.Find(p => p.Id == id).FirstOrDefaultAsync();
+            return await _productsCollection.Find(p => p.Id == requestedId).FirstOrDefaultAsync();
         }
     }
 }

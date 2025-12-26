@@ -5,8 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace dotNET.Controllers
 {
-    [Route("api/[controller]")]
+    
     [ApiController]
+    [Route("api/productdetails")]
     public class ProductDetailsController : ControllerBase
     {
         // Dependency injection of the product repository
@@ -17,7 +18,7 @@ namespace dotNET.Controllers
             _repository = repo;
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{requestedId}")]
         public async Task<IActionResult> GetProductById(string requestedId)
         {
             // Fetch the product details from the repository

@@ -1,6 +1,9 @@
-@dotNET_HostAddress = http://localhost:5074
+@rootURL = http://localhost:5074
 
-GET {{dotNET_HostAddress}}/weatherforecast/
+### Testing With A Valid Product Id
+GET {{rootURL}}/api/productdetails/694d6aa3c805d881f32ba48e
 Accept: application/json
 
-###
+### Testing With An Invalid Product Id 
+GET {{rootURL}}/api/productdetails/000000000000000000000000
+Accept: application/json
