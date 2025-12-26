@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCA9A2-B8F0-4C9E-9DAE-C40004C8D776}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{94CCA9A2-B8F0-4C9E-9DAE-C40004C8D776}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dotNET.http",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
+              "RelativeDocumentMoniker": "dotNET.http",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
+              "RelativeToolTip": "dotNET.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-26T20:19:51.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
