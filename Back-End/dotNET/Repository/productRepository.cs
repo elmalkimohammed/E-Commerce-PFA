@@ -14,7 +14,7 @@ namespace dotNET.Repository
         // Database Querries
         public async Task<Product> GetProductById(string id)
         {
-            return await _productsCollection.Find(p => p.Id == id) ;
+            return await _productsCollection.Find(p => p.Id == id).FirstOrDefaultAsync();
         }
     }
 }
