@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|c:\\users\\pc\\onedrive\\bureau\\ecommercepfa\\e-commerce-pfa\\back-end\\dotnet\\dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{340C9E13-B09E-22CF-2266-9251BE79A212}|dotNET.csproj|solutionrelative:dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "dotNET.http",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
               "RelativeDocumentMoniker": "dotNET.http",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\dotNET.http",
               "RelativeToolTip": "dotNET.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-26T22:43:37.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T22:43:37.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T22:16:18.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T22:16:18.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Controllers\\ProductDetailsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductDetailsController.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Controllers\\ProductDetailsController.cs",
               "RelativeToolTip": "Controllers\\ProductDetailsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwCAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T22:15:40.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T22:15:40.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T21:28:28.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "productRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Repository\\productRepository.cs",
               "RelativeDocumentMoniker": "Repository\\productRepository.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EcommercePFA\\E-Commerce-PFA\\Back-End\\dotNET\\Repository\\productRepository.cs",
               "RelativeToolTip": "Repository\\productRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T21:01:41.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T21:01:41.78Z"
             }
           ]
         }
