@@ -1,12 +1,14 @@
 
-function productSpecifics( { uniqueAttributs , divName } ) {
+import AttributeItem from "./attributeItem";
+
+function ProductSpecifics( { uniqueAttributs , divName } ) {
     return(
         <>
             <div className={divName}>
                 <h1>Product Specifications</h1>
                 { Object.entries(uniqueAttributs).map( ( [ key , value ] ) => 
                     (
-                            <attributeItem 
+                            <AttributeItem 
                                 label = {key}
                                 key = {key}
                                 value = {value}
@@ -18,4 +20,4 @@ function productSpecifics( { uniqueAttributs , divName } ) {
     )
 }
 
-export default productSpecifics ;
+export default ProductSpecifics ;

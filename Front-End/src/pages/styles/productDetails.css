@@ -1,0 +1,99 @@
+
+/* Global Styles */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainSection {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 70%;
+    border-radius: 10px;
+    display: flex;
+    gap: 1em;
+    box-shadow: 0 0 2px;
+}
+hr {
+    margin: 20px 0 20px 0;
+}
+.middle h1 , .bottom h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Images Section */
+
+.imgsSection {
+    width: 50%;
+}
+.imgsSection img {
+    width: 20%;
+}
+.currImg img {
+    aspect-ratio: 1;
+    box-shadow: 0 0 2px;
+    width: 100%;
+    border-radius: 10px;
+}
+.gallery {
+    display: flex;
+    gap: 1em;
+    
+}
+.gallery img {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.gallery img:hover  {
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Informations Section */
+
+/* Top Section */
+
+.infosSection {
+    width: 50%;
+}
+.top h3 {
+    color: rgb(6, 95, 70);
+    background-color: rgba(209, 250, 229 , 1);
+    width:fit-content;
+    padding: 10px;
+    border-radius: 80px;
+}
+.top h1 {
+    text-align: center;
+}
+.insideInfos {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(249, 250, 251);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.insideInfos h3 {
+    align-self: flex-end ;
+    margin-right: 100px;
+}
+.insideInfos h2 {
+    margin-left: 100px;
+}
+
+/* Middle Section */
+
+.middle div {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}
+.attKey {
+    color: rgb(107, 114, 128);
+}
+/* Bottom Section */
+

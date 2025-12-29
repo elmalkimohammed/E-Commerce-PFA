@@ -15,6 +15,11 @@ builder.Services.AddScoped(s => s.GetRequiredService<IMongoClient>().GetDatabase
 
 builder.Services.AddScoped<productRepository>();
 
+// Added CORS (Cross-Origin)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReact",policy => policy.WithOrigins("http://localhost:5173").AllowAnyHeader().AllowAnyMethod());}) ;
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,6 +29,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Use CORS
+app.UseCors("AllowReact");
 
 app.UseAuthorization();
 

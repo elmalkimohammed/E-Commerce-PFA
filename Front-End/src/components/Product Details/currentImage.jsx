@@ -1,5 +1,5 @@
 
-function currentImage( { selectedImage , divName } ) {
+function CurrentImage( { selectedImage , divName } ) {
     return(
         <>
             <div className={divName}>
@@ -9,4 +9,4 @@ function currentImage( { selectedImage , divName } ) {
     )
 }
 
-export default currentImage ;
+export default CurrentImage ;

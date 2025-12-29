@@ -1,5 +1,5 @@
 
-function attributeItem( { label , value } ) {
+function AttributeItem( { label , value } ) {
     return(
         <div>
             <span className="attKey">{label}</span>
@@ -8,4 +8,4 @@ function attributeItem( { label , value } ) {
     )
 }
 
-export default attributeItem ;
+export default AttributeItem ;

@@ -1,5 +1,5 @@
 
-function descquantSection( { divName , productDescription } ) {
+function DescquantSection( { divName , productDescription } ) {
     return(
         <div className={divName}>
             <h1>Description</h1>
@@ -8,4 +8,4 @@ function descquantSection( { divName , productDescription } ) {
     )
 }
 
-export default descquantSection ;
+export default DescquantSection ;
