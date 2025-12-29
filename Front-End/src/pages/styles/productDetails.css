@@ -26,6 +26,9 @@ hr {
 /* Images Section */
 
 .imgsSection {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
     width: 50%;
 }
 .imgsSection img {
@@ -39,12 +42,13 @@ hr {
 }
 .gallery {
     display: flex;
+    justify-content: space-between;
     gap: 1em;
     
 }
 .gallery img {
     padding: 5px;
-    border: 1px solid black;
+    box-shadow: 0 0 1px;
     border-radius: 10px;
 }
 .gallery img:hover  {
