@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.ProduitListController",
+    "Method": "GetAll",
+    "RelativePath": "api/ProduitList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

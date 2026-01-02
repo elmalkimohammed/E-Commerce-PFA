@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\repo\\produitlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repo\\produitlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\controllers\\produitlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\produitlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\models\\produitlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produitlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\onedrive\\documents\\4eme annee 1 semestre\\pfa\\project\\backend\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeToolTip": "WebApplication1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARgSURBVFhH7VfJVhNBFK1I4jJy9CdYutaFhg0S/wDBkSF4FHDiIAJ6XMgQYpjDYBjEsGDJoEscfkC\u002BQFcsUTxHyUj5Xg1JdbqqM0g8Lrzkpl69rq6\u002B9W6luyH/NCilIvp34RKtDWtra6CfZhfBYxbxmCdZjvUccmwO\u002BHhOer4nEglfeyDwGYf\u002BEWKxGM1kMkamVaYFs3FaadP06OiI4oK/fP1Ko9HFbzORyFlxmYI4IVobZOVgcsaMZEYyI6jGGQIis60kno84c/o0qa31VXs8J3emZ2aKEmkUyGHcAUXCer7L5SLV1dXEd/ECiPTsTE1NFxRpVLC6ukobGhrY6jc2NkS2PNTU1JDd3V3i9/u5G1DV/f19svP\u002Bw/dkMunruHvHuCeNAl\u002B/XqVXrnCB3GxANsBQdmAKsR1y4yCCasmMu6qKrK\u002Bvk7q6OrZ1VJEfP30CkSlfZ8ddrUgHi/MvKloGS6doyH2KRJFer5ecP3cO7HbviCE2GCu4srJCGxsbYbIjsrl5PBbv7e2JjBVuj4d0dXZqtRgFLoPAJiFQRc5aRM5eGbrYCDktJMThgx8HUDV5Ls9jz\u002BN2kzexGLnXpRdotlheOAu8sJqzi0PkWuv5Xu8p9gvWEec2QasasbS0TJuuNrH9srW5KbLHi3r/ZVbByakpcv9el1GLFotLS\u002BzJkEgmFaY4ExBLQj4u4ng8weJ4Alsg9oGHFsbp4WGc/hJMpdI09DJsLGERFuPCBDEn89iFBrt4lFnKbi1WiNEFYB5ln1EgurhIr129xi3eqqzF4xMT5OGD\u002B0YtWkSjUfbAV62UdkpabU0yC83W2u2VFgdDIWMJHV4W4AvXBMQwz10g/KYVWzFWHh4a03ACXR6gTXLw2TVYePWK3rh\u002Bg72NbFfY4vDYGOl\u002B9NCoRYuFhQX2LiftUq20WepoK9Jubc7iFB0OBo01NFvMvmFR6JskgN\u002BAOUUqa5H\u002BKpDlHy1Y3nQQIC9hw9z8PL1186aweEtkjxf19X54DrvJy3CY9HR3G7VoMTc3zy2WFuZZ6Wwp0mwr469D\u002BhOYBIsHh0eMNXSwWJyDjUqBvG4e4Aj/GGE5Jm8PGhjLGpmdpS3NzQTuhWR7uzIWXwKL4V2QjIZCpLenR6vFLDAyS5tbuMDCEBWwNnpAtdTjTOAoCHysF1jYYkfgGKC1MSNPnET\u002Bq5kKYwWnZyK0tbWFVfBthS0eCY6Svt7HpVkM/7eCwFYQmOaJvEU6VkqFoWoSTOBIkPQ96S3RYiw7fiQxp7AoFBAn4TTGWEH4p5q2tbWRFFTw3dttkT1eSIuHhkfIQN\u002BT0iyG13AaaAswgUWjyIqpYAKHhslAf1\u002BpFougIGAgCitDnERZFk9MTtL2QPtfsfjF4BB5NtBfmsXjE5P0djtYnEqXXZliUEig440ahVVSnITTjdooUG5CXGEliSjrSRIeG4ezcPPLCUSMNRW5bIx/0OJXNsdimeN9SyxaGT9/9tSo5T/KByG/AQC3UsheIqVnAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-12-27T09:30:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.http*",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-27T09:09:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProduitListController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Controllers\\ProduitListController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProduitListController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Controllers\\ProduitListController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProduitListController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T08:28:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:59:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProduitListRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\repo\\ProduitListRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\repo\\ProduitListRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\repo\\ProduitListRepo.cs",
+              "RelativeToolTip": "WebApplication1\\repo\\ProduitListRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:54:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduitListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Models\\ProduitListModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProduitListModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\Models\\ProduitListModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProduitListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:53:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\4eme annee 1 semestre\\pfa\\Project\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T07:52:42.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
